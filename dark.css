@@ -1,0 +1,30 @@
+body.dark-mode {
+    background-color: #333;
+    color: white;
+  }
+  
+  body.dark-mode .html,
+  body.dark-mode .css,
+  body.dark-mode .js {
+    background-color: #555;
+  }
+  
+  body.dark-mode .range {
+    background-color: maroon;
+  }
+  
+  body.dark-mode .range2 {
+    background-color: darkblue;
+  }
+  
+  body.dark-mode .range3 {
+    background-color: gold;
+  }
+  #toggle-mode{
+    background-color: transparent;
+    border: 2.5px black solid;
+    border-radius: 30px;
+    font-size: 15.5px;
+    position: relative;
+   left: 70%;
+  }
